@@ -28,8 +28,6 @@
 
 ;;; Code:
 
-(provide 'magit-commit-training-wheels)
-
 (defun isearch-yank-regexp (regexp)
   "Pull REGEXP into search regexp."
   (let ((isearch-regexp nil)) ;; Dynamic binding of global.
