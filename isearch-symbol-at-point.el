@@ -55,6 +55,7 @@
         (isearch-yank-regexp
          (regexp-quote sym))))))
 
+;;;###autoload
 (defun isearch-symbol-at-point (&optional partialp)
   "Incremental search forward with symbol under point.
 
@@ -65,6 +66,7 @@
     (isearch-forward-regexp nil 1)
     (isearch-yank-symbol partialp)))
 
+;;;###autoload
 (defun isearch-backward-symbol-at-point (&optional partialp)
   "Incremental search backward with symbol under point.
 
