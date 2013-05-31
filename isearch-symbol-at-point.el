@@ -1,6 +1,6 @@
-;;; magit-commit-training-wheels.el --- Advice for magit-log-edit-commit
+;;; isearch-symbol-at-point.el
 
-;; Copyright (C) 2012 @re5et
+;; Copyright (C) 2013 @re5et
 
 ;; Author: atom smith
 ;; URL: https://github.com/re5et/isearch-symbol-at-point
