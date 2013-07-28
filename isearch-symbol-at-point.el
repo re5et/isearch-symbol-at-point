@@ -1,4 +1,4 @@
-;;; isearch-symbol-at-point.el
+;;; isearch-symbol-at-point.el --- Use isearch to search for the symbol at point
 
 ;; Copyright (C) 2013 @re5et
 
